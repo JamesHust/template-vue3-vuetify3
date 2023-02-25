@@ -3,7 +3,7 @@
     <div class="title-content">
       <div>Vue 3 + Vuetify 3 Template</div>
       <div class="child-title">
-        06.02.2023
+        Let's design your website!
       </div>
     </div>
   </div>
